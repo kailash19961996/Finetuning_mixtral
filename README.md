@@ -1,7 +1,5 @@
-# Finetuning_mixtral
-Here I am finetuning the LLMs for different use cases
-
-# SarcasticAI
+# 1. SarcasticAI
+Here I am finetuning the LLMs(Mixtral) for creating sarcastic news like Onion news
 
 ## Examples of Generated Text
 
