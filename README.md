@@ -34,4 +34,11 @@ Instructor Bes's Attempt to Explain Neural Networks Through Interpretive Dance L
 **Generated Article:**  
 MADISON, WI—According to sources at the University of Wisconsin-Madison, a recent attempt by computer science instructor David Bes to explain the concept of neural networks through interpretive dance left students more confused than ever before. “I’ve never seen anything like it,” said sophomore computer science major Mark Heller, adding that Bes’s use of dance moves such as the Charleston, the Running Man, and the Worm did little to help him grasp the intricacies of artificial neural networks. “At one point, he was doing the Macarena and saying something about backpropagation, but I couldn’t make sense of it. I don’t think anyone could.” At press time, sources confirmed that Bes was attempting to clarify his explanation by drawing a neural network on the chalkboard while singing “Don’t Stop Believin’.
 
+### Example 5
+**Headline:**  
+Prajveen Patel found new dance moves, that can help students better understand the AI alogithms and currently in talks with cambridge university to utilise his new teaching methods
+
+**Generated Article:**  
+NEW DELHI—According to sources, 24-year-old computer science student Prajeevan Patel has developed a series of dance moves to help students learn complex artificial intelligence algorithms, and is currently in negotiations with Cambridge University to implement his unique teaching methods. “I’ve always loved to dance, and I wanted to find a way to combine that with my passion for AI,” said Patel, demonstrating a move he calls the “Recurrent Neural Network,” which involves rotating one’s torso in a clockwise motion while simultaneously moving the arms in a counterclockwise direction. “The ‘Convolutional Neural Net’ is a bit more complicated, but it’s also a lot of fun once you get the hang of it. It’s all about getting the students to feel the algorithms in their bodies, so they can understand them on a deeper level.” At press time, Patel had been invited to speak about his teaching methods at the annual Association for Computing Machinery conference in San Francisco.
+
 
